@@ -1,5 +1,5 @@
 {
-  "name": "Landing Page (Home & Living)",
+  "name": "cantinhodacamis",
   "path": "/home-and-living",
   "sections": [
     {
@@ -25,7 +25,7 @@
           "__resolveType": "shopify/loaders/ProductListingPage.ts",
           "count": 12,
           "collectionName": "Home & Living",
-          "query": "home & living"
+          "query": "a"
         },
         "layout": {
           "columns": {
@@ -41,7 +41,8 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
+        "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+        "empty": {}
       }
     },
     {

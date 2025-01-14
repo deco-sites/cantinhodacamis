@@ -11,14 +11,14 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/5b022a01-ba88-46fe-86ae-93ae644605b7",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/88b2ad41-be6d-4640-b9fe-c58942362f0f",
-          "alt": "Shoes",
+          "desktop": "https://data.decoassets.com/cantinhodacamis/d2d85b20-9e91-41a8-a95f-fd598b5229e1/Caixa-piramide.jpg",
+          "mobile": "https://data.decoassets.com/cantinhodacamis/d2d85b20-9e91-41a8-a95f-fd598b5229e1/Caixa-piramide.jpg",
+          "alt": "Caixa Pirâmide",
           "action": {
-            "title": "Skate into Adventure",
-            "subTitle": "Top-quality roller skate shoes for all levels. ",
+            "title": "Caixa Pirâmide",
+            "subTitle": "Excelente para enfeitas a mesas de bolo e deixar como lembrancinhas.",
             "href": "/s?q=shoes&page=0",
-            "label": "Grab Yours Now!"
+            "label": "Adquira já a sua."
           }
         },
         {
@@ -44,7 +44,8 @@
           "alt": "Woman"
         }
       ],
-      "preload": true
+      "preload": true,
+      "interval": 5
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
