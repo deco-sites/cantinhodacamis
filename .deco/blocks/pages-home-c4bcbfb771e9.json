@@ -22,14 +22,14 @@
           }
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/d26304f4-355b-48d0-b649-e24b9cbf0ded",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/47a4d85a-1150-4e5d-abc2-5c642445ff12",
-          "alt": "Men",
+          "desktop": "https://data.decoassets.com/cantinhodacamis/fe7e5553-1e61-47be-9cd8-a87eb376b05f/Caixa-expositora.png",
+          "mobile": "https://data.decoassets.com/cantinhodacamis/fe7e5553-1e61-47be-9cd8-a87eb376b05f/Caixa-expositora.png",
+          "alt": "Caixa Expositora",
           "action": {
-            "title": "Discover Fresh Looks",
-            "subTitle": "Modern men's clothing and accessories.",
-            "href": "/men",
-            "label": "Shop the Collection"
+            "title": "Caixas Expositoras",
+            "subTitle": "Excelentes para guardar de lembrancinha.",
+            "href": "/caixa-expositora",
+            "label": "Peça já a sua"
           }
         },
         {
